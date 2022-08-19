@@ -1,0 +1,2 @@
+# MagicBox
+homework of generics
